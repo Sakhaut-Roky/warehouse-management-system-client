@@ -45,7 +45,7 @@ const Blogs = () => {
                     <h1>Q3: Differences between sql and nosql databases.</h1>
                     <p>
                         <h5>
-                        SQL databases are primarily called as Relational Databases (RDBMS); whereas NoSQL database are primarily called as non-relational or distributed database. 
+                        SQL databases are primarily called as Relational Databases; whereas NoSQL database are primarily called as non-relational or distributed database. 
                         </h5>
                         <h5>
                         SQL databases are table-based on the other hand NoSQL databases are either key-value pairs, document-based, graph databases or wide-column stores. This makes relational SQL databases a better option for applications that require multi-row transactions such as an accounting system or for legacy systems that were built for a relational structure. 
