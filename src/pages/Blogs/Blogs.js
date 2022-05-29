@@ -77,7 +77,7 @@ const Blogs = () => {
                     Authorization: This is the most common scenario for using JWT. Once the user is logged in, each subsequent request will include the JWT, allowing the user to access routes, services, and resources that are permitted with that token. Single Sign On is a feature that widely uses JWT nowadays, because of its small overhead and its ability to be easily used across different domains.
                     </h5>
                     <h5>
-                    Information Exchange: JSON Web Tokens are a good way of securely transmitting information between parties. Because JWTs can be signed—for example, using public/private key pairs—you can be sure the senders are who they say they are. Additionally, as the signature is calculated using the header and the payload, you can also verify that the content hasn't been tampered with.
+                    Information Exchange: JSON Web Tokens or jwt token are a good way of securely transmitting information between parties. Because JWTs can be signed—for example, using public/private key pairs—you can be sure the senders are who they say they are. Additionally, as the signature is calculated using the header and the payload, you can also verify that the content hasn't been tampered with.
                     </h5>
                     <h5>
                         Finally it could be said that, JWT or JSON Web Token is a formatting system that is used for providing the highly sucure the users data as the scammers could not easily be founded. It is like an encryption decryption method system where data couldnot be showed by visitor and is call unvisible.
