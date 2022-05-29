@@ -57,7 +57,7 @@ const Blogs = () => {
                         SQL databases have fixed or static or predefined schema.And NoSQL is a dynamic.
                         </h5>
                         <h5>
-                        SQL databases are best suited for complex queries. And NoSQL databases are not so good for complex queries
+                        SQL databases are best suited for complex queriy. And NoSQL databases are not so good for complex queries
                         </h5>
                     </p>
             </div>
