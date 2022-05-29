@@ -12,7 +12,7 @@ import './Home.css';
 const Home = () => {
     const [inventories, setInventories] = useInventory();
     // useEffect( () => {
-    //     fetch('http://localhost:5000/products')
+    //     fetch('https://stark-bayou-80955.herokuapp.com/products')
     //     .then(res => res.json())
     //     .then(data => setProducts(data))
     // }, [])
