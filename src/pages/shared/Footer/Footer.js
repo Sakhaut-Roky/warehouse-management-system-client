@@ -13,8 +13,8 @@ const Footer = () => {
             <div className="contact">
                 <h2>Contact</h2>
                 <p><strong>Address: </strong>West Dhanmondi, Songkar, Road no 26, Dhaka</p>
-                <p><strong>Phone: </strong>+8801640911511</p>
-                <p><strong>Fax: </strong>8801640911511</p>
+                <p><strong>Phone: </strong>+8801737327209</p>
+                <p><strong>Fax: </strong>88001737327209</p>
                 <p><strong>Mail: </strong>hs.sharif819@gmail.com</p>
                 <p><strong>Opening: </strong>Sun-Fri at 10am</p>
             </div>
