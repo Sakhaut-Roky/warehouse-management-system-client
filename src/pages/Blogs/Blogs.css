@@ -10,10 +10,10 @@ h1{
     border-radius: 20px;
 }
 .js{
-    background-color: hotpink;
+    background-color: rgb(67, 93, 70);
 }
 .mongo{
-    background-color: goldenrod;
+    background-color: rgb(129, 101, 30);
 }
 .nosql{
     background-color: burlywood;
