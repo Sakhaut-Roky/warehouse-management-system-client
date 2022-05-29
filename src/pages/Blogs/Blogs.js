@@ -28,7 +28,7 @@ const Blogs = () => {
                 </p>
             </div>
             <div className="mongo">
-                <h1>Q2: When should you use nodejs and when should you use mongodb??</h1>
+                <h1>Q2: When should you use nodejs and when should use mongodb??</h1>
                 <p>
                     <h5>
                      It represents data as of JSON documents. It's used for store data.
